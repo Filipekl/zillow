@@ -1,3 +1,3 @@
 # zillow
 
-Need to update code
+Quick exploration of data and simple baseline models
